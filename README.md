@@ -1,1 +1,2 @@
-# Movie-Analysis
+# Movie Analysis
+Student Name: Nathalie Castro
